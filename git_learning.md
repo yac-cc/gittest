@@ -10,3 +10,7 @@ $ git add *.py #add all the pyhon file into index
 $ git add --all # all into index
 $ git commit -m "init commit practice"
 ```
+second learming
+```
+
+```
