@@ -1,4 +1,6 @@
 ##g++
 g++ in using 
-```c++
-
+```shell
+$ g++ hello.cpp
+./a.out
+```
