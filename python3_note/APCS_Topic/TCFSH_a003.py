@@ -1,5 +1,6 @@
-## Credit Pass Word
-## TCFSH a003
+## Question : Credit Pass Word
+## Difficulty : Eazy
+## Status :AC
 def kk(x):
     return ord(x)
 try:
