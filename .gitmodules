@@ -1,3 +1,6 @@
 [submodule "git"]
 	path = git
 	url = git@github.com:hellojs-tw/git-101.git
+[submodule "Git-Tutorial"]
+	path = Git-Tutorial
+	url = git@github.com:twtrubiks/Git-Tutorials.git
