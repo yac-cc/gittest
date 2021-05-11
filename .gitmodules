@@ -4,3 +4,9 @@
 [submodule "Git-Tutorial"]
 	path = Git-Tutorial
 	url = git@github.com:twtrubiks/Git-Tutorials.git
+[submodule "100_Problems_in_Learning_Python"]
+	path = 100_Problems_in_Learning_Python
+	url = git@github.com:darkprinx/break-the-ice-with-python.git
+[submodule "Deep_learning"]
+	path = Deep_learning
+	url = https://github.com/exacity/deeplearningbook-chinese
